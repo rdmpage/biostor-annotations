@@ -28,8 +28,8 @@ $config['proxy_port'] 	= '';
 $config['image_source']		= 'bhl'; // bhl to use remote images, biostor for local
 
 // Hypothesis usernam and password--------------------------------------------------------
-$config['hypothesis_username'] = 'rdmpage';
-$config['hypothesis_password'] = 'peacrab';
+$config['hypothesis_username'] = '';
+$config['hypothesis_password'] = '';
 
 	
 ?>
